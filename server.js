@@ -1,16 +1,15 @@
 require('dotenv').config()
 const express = require('express')
 const app = express()
-const path = require('path')
 
-app.use('/static', express.static('public'));
+const indexPath = require('./routes/index')
+const aboutPath = require('./routes/about')
+const contactPath = require('./routes/contact')
 
-app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname + '/views/index.html'))
-})
+app.use(indexPath)
+app.use(aboutPath)
+app.use(contactPath)
 
-app.get('/test', (req, res) => {
-  res.sendFile(path.join(__dirname + '/views/test.html'))
-})
+app.use('/static', express.static('public'))
 
 app.listen(process.env.PORT)
