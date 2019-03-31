@@ -1,7 +1,7 @@
 // Importing .env file which contains port location
 require('dotenv').config()
 
-// Import express and setting it to app variable
+// Importing express and setting it to app variable
 const express = require('express')
 const app = express()
 
