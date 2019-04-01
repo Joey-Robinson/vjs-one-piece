@@ -1,0 +1,5 @@
+.main {
+  display: grid;
+  grid-template-columns: 10vw 90vw;
+  grid-template-rows: 8vh repeat(3, 1fr);
+}
