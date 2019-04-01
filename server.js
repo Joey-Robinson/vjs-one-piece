@@ -16,6 +16,8 @@ app.use(aboutPath)
 app.use(contactPath)
 
 // Setting public folder for static content (Images, CSS, and JS)
+// Note: This is the compiled CSS. I bypassed express and use npm scripts
+// To use SCSS.
 app.use('/static', express.static('public'))
 
 // Setting listening port from the env file

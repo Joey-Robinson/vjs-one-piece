@@ -1,2 +1,4 @@
 node_modules/
 .env
+public/css/style.comp.css
+public/css/concat.css

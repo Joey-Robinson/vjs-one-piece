@@ -3,18 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "author": "Joey Robinson <joeyrobinsondev@gmail.com>",
   "scripts": {
     "cssStart": "npm-run-all --parallel dev watch:sass",
-    "compress:sass": "node-sass --output-style compressed -o dist/css sass/",
-    "compile:sass": "node-sass sass/main.scss dist/css/style.comp.css",
-    "concat:css": "concat -o dist/css/style.concat.css dist/css/style.comp.css",
-    "prefix:css": "postcss -u autoprefixer -r dist/css/*",
+    "compress:sass": "node-sass --output-style compressed -o public/css src/sass",
+    "compile:sass": "node-sass src/sass/main.scss public/css/style.comp.css",
+    "concat:css": "concat -o public/css/style.concat.css public/css/style.comp.css",
+    "prefix:css": "postcss -u autoprefixer -r public/css/*",
     "build:css": "npm-run-all compile:sass concat:css prefix:css compress:sass",
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^7.0.0",
     "express": "^4.16.4"
