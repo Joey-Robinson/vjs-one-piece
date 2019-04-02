@@ -7,13 +7,13 @@ const app = express()
 
 // Importing routes and assiging them to variables
 const indexPath = require('./routes/index')
-const aboutPath = require('./routes/about')
-const contactPath = require('./routes/contact')
+const charactersPath = require('./routes/characters')
+const devilFruitPath = require('./routes/devil-fruits')
 
 // Consuming route variables
 app.use(indexPath)
-app.use(aboutPath)
-app.use(contactPath)
+app.use(charactersPath)
+app.use(devilFruitPath)
 
 // Setting public folder for static content (Images, CSS, and JS)
 // Note: This is the compiled CSS. I bypassed express and use npm scripts
