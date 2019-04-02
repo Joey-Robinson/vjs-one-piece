@@ -1,0 +1,1 @@
+const api = "https://onepiececover.com/api/chapters"
