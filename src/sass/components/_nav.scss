@@ -4,29 +4,48 @@
   grid-row: 1;
   grid-column: 1 / -1;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 3fr repeat(3, 15rem) 5vw;
   grid-template-rows: 1fr;
   position: sticky;
   top: 0;
   color: black;
-  background: white;
   z-index: 3;
+  background: white;
+  a {
+    text-decoration: none;
+    color: black;
+  }
   div {
+    align-self: center;
     font-size: 2rem;
     font-weight: 700;
-    justify-self: center;
-    align-self: center;
   }
-  &--home {
+  &--title {
+    justify-self: left;
     grid-column: 1;
     grid-row: 1;
+    img {
+      height: 8vh;
+      width: 100%;
+    }
   }
-  &--fruits {
+  &--home {
+    justify-self: right;
     grid-column: 2;
     grid-row: 1;
   }
-  &--characters {
+  &--fruits {
+    justify-self: right;
     grid-column: 3;
     grid-row: 1;
   }
+  &--characters {
+    justify-self: right;
+    grid-column: 4;
+    grid-row: 1;
+  }
+}
+
+.current {
+  background: url(../images/current.png) no-repeat center center / contain;
 }
