@@ -4,13 +4,12 @@
   grid-row: 1;
   grid-column: 1 / -1;
   display: grid;
-  grid-template-columns: 3fr repeat(3, 15rem) 5vw;
+  grid-template-columns: 3fr repeat(4, 15rem) 5vw;
   grid-template-rows: 1fr;
   position: sticky;
   top: 0;
   color: black;
   z-index: 3;
-  background: white;
   a {
     text-decoration: none;
     color: black;
@@ -24,28 +23,34 @@
     justify-self: left;
     grid-column: 1;
     grid-row: 1;
+    margin: 1rem 0 0 1rem;
     img {
       height: 8vh;
       width: 100%;
     }
   }
   &--home {
-    justify-self: right;
+    justify-self: center;
     grid-column: 2;
     grid-row: 1;
   }
   &--fruits {
-    justify-self: right;
+    justify-self: center;
     grid-column: 3;
     grid-row: 1;
   }
   &--characters {
-    justify-self: right;
+    justify-self: center;
     grid-column: 4;
+    grid-row: 1;
+  }
+  &--manga {
+    justify-self: center;
+    grid-column: 5;
     grid-row: 1;
   }
 }
 
 .current {
-  background: url(../images/current.png) no-repeat center center / contain;
+  background: url(../images/thousand-sunny-color.png) no-repeat center center / contain;
 }
