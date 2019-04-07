@@ -1,6 +1,6 @@
 .main {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: repeat(3, 100vh);
+  grid-template-rows: repeat(3, 100vh) 30vh;
   height: 300vh;
 }
