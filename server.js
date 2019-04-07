@@ -10,12 +10,14 @@ const indexPath = require('./routes/index')
 const charactersPath = require('./routes/characters')
 const devilFruitPath = require('./routes/devil-fruits')
 const mangaPath = require('./routes/manga')
+const animePath = require('./routes/anime')
 
 // Consuming route variables
 app.use(indexPath)
 app.use(charactersPath)
 app.use(devilFruitPath)
 app.use(mangaPath)
+app.use(animePath)
 
 // Setting public folder for static content (Images, CSS, and JS)
 // Note: This is the compiled CSS. I bypassed express and use npm scripts

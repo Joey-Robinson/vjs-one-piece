@@ -86,6 +86,18 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./src/js/components/header.js":
+/*!*************************************!*\
+  !*** ./src/js/components/header.js ***!
+  \*************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nvar sliderOpen = exports.sliderOpen = function sliderOpen() {\n  var openSlide = document.getElementById(\"openSlideMenu\");\n  openSlide.addEventListener(\"click\", function () {\n    var slide = document.getElementById(\"slide\");\n    slide.style.width = \"100vw\";\n  });\n};\n\nvar sliderClose = exports.sliderClose = function sliderClose() {\n  var closeSlide = document.getElementById(\"closeSlideMenu\");\n  closeSlide.addEventListener(\"click\", function () {\n    var slide = document.getElementById(\"slide\");\n    slide.style.width = \"0\";\n  });\n};\n\n//# sourceURL=webpack:///./src/js/components/header.js?");
+
+/***/ }),
+
 /***/ "./src/js/index.js":
 /*!*************************!*\
   !*** ./src/js/index.js ***!
@@ -94,7 +106,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nconsole.log(\"Hi\");\n\n//# sourceURL=webpack:///./src/js/index.js?");
+eval("\n\nvar _header = __webpack_require__(/*! ./components/header */ \"./src/js/components/header.js\");\n\n(0, _header.sliderOpen)();\n(0, _header.sliderClose)();\n\n//# sourceURL=webpack:///./src/js/index.js?");
 
 /***/ })
 

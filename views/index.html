@@ -21,25 +21,42 @@
 <body>
   <main class="main">
 
-    <!-- Nav Start -->
-    <nav class="nav">
-      <div class="nav--title">
-        <img src="/static/images/one-piece-title.png" alt="">
+    <!-- Header Start -->
+    <header class="header">
+
+      <span id="header__open" class="header__open">
+        <button aria-label="Open Sliding Menu" id="openSlideMenu">
+          <svg width="30" height="10" id="svg">
+            <path class="path" d="M0,5 30,5" stroke-width="2.5" />
+            <path class="path" d="M0,14 30,14" stroke-width="2.5" />
+            <path class="path" d="M0,23 30,23" stroke-width="2.5" />
+          </svg>
+        </button>
+      </span>
+
+      <div class="header__menu" id="slide">
+        <button aria-label="Close Sliding Menu" class="header__menu--close" id="closeSlideMenu">&times;</button>
+        <ul>
+          <li>
+            <a aria-label="Home" class="header__menu--list active" href="/">Home</a>
+          </li>
+          <li>
+            <a aria-label="Characters" class="header__menu--list" href="/characters">Characters</a>
+          </li>
+          <li>
+            <a aria-label="Devil Fruits" class="header__menu--list" href="/devil-fruits">Devil Fruits</a>
+          </li>
+          <li>
+            <a aria-label="Manga" class="header__menu--list" href="/manga">Manga</a>
+          </li>
+          <li>
+            <a aria-label="Anime" class="header__menu--list" href="/anime">Anime</a>
+          </li>
+        </ul>
       </div>
-      <div class="nav--home current">
-        <a href="/">Home</a>
-      </div>
-      <div class="nav--fruits">
-        Devil Fruits
-      </div>
-      <div class="nav--characters">
-        Characters
-      </div>
-      <div class="nav--manga">
-        Manga
-      </div>
-    </nav>
-    <!-- Nav End -->
+
+    </header>
+    <!-- Header End -->
 
     <!-- Landing Start -->
     <section class="landing">
