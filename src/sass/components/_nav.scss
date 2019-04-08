@@ -12,23 +12,59 @@
   }
 
   &__menu {
-    height: 100%;
+    font-family: 'chinese_asian_styleregular';
+    background: url(../images/one-piece-nav-bg.jpg) no-repeat center center / cover;
+    height: 100vh;
     width: 100vw;
     width: 0;
     position: fixed;
     z-index: 2;
     font-size: 3.5rem;
     overflow-x: hidden;
-    padding-top: 5rem;
     transition: 0.5s;
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr;
 
-    ul {
+    div {
+      justify-self: center;
+      align-self: center;
+    }
+
+    a {
+      display: block;
+      color: white;
+      text-decoration: none;
+    }
+
+    &__home {
       grid-column: 1;
+      grid-row: 1;
+    }
 
-      a {
-        color: black;
+    &__characters {
+      grid-column: 2;
+      grid-row: 1;
+    }
+
+    &__devilfruit {
+      grid-column: 3;
+      grid-row: 1;
+    }
+
+    &__manga {
+      grid-column: 4;
+      grid-row: 1;
+    }
+
+    &__anime {
+      grid-column: 5;
+      grid-row: 1;
+    }
+
+    &--list {
+      &:hover {
+        animation: bounce 1s infinite;
       }
     }
 

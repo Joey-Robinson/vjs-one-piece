@@ -1,1 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
+
+@font-face {
+  font-family: 'chinese_asian_styleregular';
+  src: url('../fonts/chinese_asian_style-webfont.woff2') format('woff2'),
+    url('../fonts/chinese_asian_style-webfont.woff') format('woff');
+}
