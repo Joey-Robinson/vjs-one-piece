@@ -100,5 +100,11 @@
 
   &__open {
     padding: 1rem 1rem;
+
+    button {
+      &:hover {
+        animation: rotate 2s infinite;
+      }
+    }
   }
 }
