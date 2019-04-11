@@ -1,0 +1,566 @@
+{
+  "devil-fruit": [{
+      "name": "Toge Toge no Mi",
+      "character": "Zala",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Zala",
+      "status": "Alive"
+    },
+    {
+      "name": "Ryu Ryu no Mi, Model: Allosaurus",
+      "character": "X Drake",
+      "class": "Ancient Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/X_Drake",
+      "status": "Alive"
+    },
+    {
+      "name": "Baku Baku no Mi",
+      "character": "Wapol",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Wapol",
+      "status": "Alive"
+    },
+    {
+      "name": "Giro Giro no Mi",
+      "character": "Viola",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Viola"
+    },
+    {
+      "name": "Beri Beri no Mi",
+      "character": "Very Good",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Very_Good"
+    },
+    {
+      "name": "Mato Mato no Mi",
+      "character": "Vander Decken IX",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Vander_Decken_IX"
+    },
+    {
+      "name": "Unknown",
+      "character": "Urouge",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Urouge"
+    },
+    {
+      "name": "Woshu Woshu no Mi",
+      "character": "Tsuru",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Tsuru"
+    },
+    {
+      "name": "Beta Beta no Mi",
+      "character": "Trebol",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Trebol"
+    },
+    {
+      "name": "Ope Ope no Mi",
+      "character": "Trafalgar D. Water Law",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law"
+    },
+    {
+      "name": "Hito Hito no Mi",
+      "character": "Tony Tony Chopper",
+      "class": "Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper"
+    },
+    {
+      "name": "Tama Tama no Mi",
+      "character": "Tamago",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Tamago"
+    },
+    {
+      "name": "Unknown",
+      "character": "Tama",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Tama"
+    },
+    {
+      "name": "Hobi Hobi no Mi",
+      "character": "Sugar",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Sugar"
+    },
+    {
+      "name": "Kuku Kuku no Mi",
+      "character": "Streusen",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Streusen"
+    },
+    {
+      "name": "Horse SMILE",
+      "character": "Speed",
+      "class": "Artifical Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Speed"
+    },
+    {
+      "name": "Moku Moku no Mi",
+      "character": "Smoker",
+      "class": "Logia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Smoker"
+    },
+    {
+      "name": "Sara Sara no Mi, Model: Axolotl",
+      "character": "Smiley",
+      "class": "Zoan",
+      "awakened": "No",
+      "consumed": "No",
+      "characterLink": "https://onepiece.fandom.com/wiki/Smiley"
+    },
+    {
+      "name": "Sabi Sabi no Mi",
+      "character": "Shu",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Shu"
+    },
+    {
+      "name": "Juku Juku no Mi",
+      "character": "Shinobu",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Shinobu"
+    },
+    {
+      "name": "Suke Suke no Mi",
+      "character": "Shiryu",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Shiryu"
+    },
+    {
+      "name": "Fuwa Fuwa no Mi",
+      "character": "Shiki",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Shiki"
+    },
+    {
+      "name": "Sheep SMILE",
+      "character": "Sheepshead",
+      "class": "Artifical Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Sheepshead"
+    },
+    {
+      "name": "Shari Shari no Mi",
+      "character": "Sharinguru",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Sharinguru"
+    },
+    {
+      "name": "Sui Sui no Mi",
+      "character": "Senor Pink",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Senor_Pink"
+    },
+    {
+      "name": "Hito Hito no Mi, Model: Daibutsu",
+      "character": "Sengoku",
+      "class": "Mythical Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Sengoku"
+    },
+    {
+      "name": "Unknown",
+      "character": "Scratchmen Apoo",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Scratchmen_Apoo"
+    },
+    {
+      "name": "Unknown",
+      "character": "Sanjuan Wolf",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Sanjuan_Wolf"
+    },
+    {
+      "name": "Magu Magu no Mi",
+      "character": "Sakazuki",
+      "class": "Logia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Sakazuki"
+    },
+    {
+      "name": "Mera Mera no Mi",
+      "character": "Sabo",
+      "class": "Logia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Sabo"
+    },
+    {
+      "name": "Neko Neko no Mi, Model: Leopard",
+      "character": "Rob Lucci",
+      "class": "Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Rob_Lucci"
+    },
+    {
+      "name": "Mera Mera no Mi",
+      "character": "Portgas D. Ace",
+      "class": "Logia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Portgas_D._Ace"
+    },
+    {
+      "name": "Uma Uma no Mi",
+      "character": "Pierre",
+      "class": "Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Pierre"
+    },
+    {
+      "name": "Ishi Ishi no Mi",
+      "character": "Pica",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Pica"
+    },
+    {
+      "name": "Horo Horo no Mi",
+      "character": "Perona",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Perona"
+    },
+    {
+      "name": "Tori Tori no Mi, Model: Falcon",
+      "character": "Pell",
+      "class": "Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Pell"
+    },
+    {
+      "name": "Kame Kame no Mi",
+      "character": "Pekoms",
+      "class": "Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Pekoms"
+    },
+    {
+      "name": "Ryu Ryu no Mi, Model: Spinosaurus",
+      "character": "Page One",
+      "class": "Ancient Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Page_One"
+    },
+    {
+      "name": "Unknown",
+      "character": "Onigumo",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Onigumo"
+    },
+    {
+      "name": "Hana Hana no Mi",
+      "character": "Nico Robin",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Nico_Robin"
+    },
+    {
+      "name": "Mouse SMILE",
+      "character": "Mouseman",
+      "class": "Artifical Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Mouseman"
+    },
+    {
+      "name": "Oshi Oshi no Mi",
+      "character": "Morley",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Morley"
+    },
+    {
+      "name": "Gomu Gomu no Mi",
+      "character": "Monkey D. Luffy",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+    },
+    {
+      "name": "Yuki Yuki no Mi",
+      "character": "Monet",
+      "class": "Logia",
+      "awakened": "No",
+      "consumed": "No",
+      "characterLink": "https://onepiece.fandom.com/wiki/Monet"
+    },
+    {
+      "name": "Unknown",
+      "character": "Minozebra",
+      "class": "Zoan",
+      "awakened": "Yes",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Minozebra"
+    },
+    {
+      "name": "Unknown",
+      "character": "Minotaurus",
+      "class": "Zoan",
+      "awakened": "Yes",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Minotaurus"
+    },
+    {
+      "name": "Unknown",
+      "character": "Minorhinoceros",
+      "class": "Zoan",
+      "awakened": "Yes",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Minorhinoceros"
+    },
+    {
+      "name": "Unknown",
+      "character": "Minokoala",
+      "class": "Zoan",
+      "awakened": "Yes",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Minokoala"
+    },
+    {
+      "name": "Unknown",
+      "character": "Minochihuahua",
+      "class": "Zoan",
+      "awakened": "Yes",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Minochihuahua"
+    },
+    {
+      "name": "Kilo Kilo no Mi",
+      "character": "Mikita",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Mikita"
+    },
+    {
+      "name": "Gura Gura no Mi",
+      "character": "Marshall D. Teach",
+      "class": "Paramecia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
+    },
+    {
+      "name": "Yami Yami no Mi",
+      "character": "Marshall D. Teach",
+      "class": "Logia",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
+    },
+    {
+      "name": "Tori Tori no Mi, Model Phoenix",
+      "character": "Marco",
+      "class": "Mythical Zoan",
+      "awakened": "No",
+      "consumed": "Yes",
+      "characterLink": "https://onepiece.fandom.com/wiki/Marco"
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    },
+    {
+      "name": "",
+      "character": "",
+      "class": "",
+      "awakened": "",
+      "consumed": "",
+      "characterLink": ""
+    }
+  ]
+}
